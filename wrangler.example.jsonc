@@ -14,15 +14,15 @@
 	"kv_namespaces": [
 		{
 			"binding": "KV",
-			"id": "YOUR_KV_NAMESPACE_ID_HERE"
+			"id": "2b194fe5bedb449da5b956b569323d10"
 		}
 	],
 	"d1_databases": [
 		{
 			"binding": "DB",
 			"database_name": "smail-database",
-			"database_id": "YOUR_D1_DATABASE_ID_HERE",
-			"preview_database_id": "YOUR_D1_DATABASE_ID_HERE",
+			"database_id": "ec7e10d9-7144-4dc9-856a-acb3a1e58169",
+			"preview_database_id": "ec7e10d9-7144-4dc9-856a-acb3a1e58169",
 			"migrations_dir": "./app/db/migrations"
 		}
 	],
